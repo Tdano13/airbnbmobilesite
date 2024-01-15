@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airbnb</title>
+    <!-- Add your CSS stylesheets or links here -->
+    <!-- Example: <link rel="stylesheet" href="styles.css"> -->
+</head>
+<body>
+    <header>
+        <h1>Your Website Title</h1>
+        <!-- Add navigation or header content here -->
+    </header>
+
+    <main>
+        <!-- Add your main content here -->
+        <p>Hello, world!</p>
+    </main>
+
+    <footer>
+        <!-- Add footer content here -->
+        <p>&copy; 2024 Your Company</p>
+    </footer>
+
+    <!-- Add your JavaScript files or links here -->
+    <!-- Example: <script src="script.js"></script> -->
+</body>
+</html>
